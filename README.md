@@ -1,4 +1,4 @@
-## Galaxy Note 4 (N910C) Lineage-15.1 based rom
+## Samsung Galaxy Note 4 and Tab S2 (Exynos) Lineage 15.1-Based ROMs
 
 * Download supported sources (LineageOS, AOSCP, RR, etc...)
 * Once this is download, clone this repo to .repo/local_manifests then sync repositories again
@@ -7,10 +7,11 @@
 
 ## Copyright
 
-* Copyright (C) 2018 Bonuzzz
-* Copyright (C) 2018 sayedather (atherakber)	
-* Copyright (C) 2018 Ananjaser1211 (Anan1211)
-* Copyright (C) 2018 Matt Grf (McFy49)
+* Copyright (C) 2018 ananjaser1211 (AnanJaser)
+* Copyright (C) 2018 bonuzzz	
+* Copyright (C) 2018 McFy49 (Matt Grf)
+* Copyright (C) 2018 ripee
+* Copyright (C) 2018 sayedather (Ather Akber)
 
 ## License
 Apache License 2.0 (Apache-2.0) (Located at LICENSE, read more at [tldrlegal.com/license/apache-license-2.0](https://tldrlegal.com/license/apache-license-2.0-%28apache-2.0%29))
