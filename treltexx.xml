@@ -4,18 +4,18 @@
   <remove-project name="LineageOS/android_frameworks_av" />
   <remove-project name="LineageOS/android_hardware_broadcom_wlan" />
   <remove-project name="LineageOS/android_system_core" />
-  <project name="Exynos5433/android_bionic" path="bionic" remote="github" revision="lineage-15.1" />
-  <project name="Exynos5433/android_device_samsung_trelte-common" path="device/samsung/trelte-common" remote="github" revision="lineage-15.1" />
-  <project name="Exynos5433/android_device_samsung_treltexx" path="device/samsung/treltexx" remote="github" revision="lineage-15.1" />
-  <project name="Exynos5433/android_frameworks_av" path="frameworks/av" remote="github" revision="lineage-15.1" />
-  <project name="Exynos5433/android_hardware_broadcom_wlan" path="hardware/broadcom/wlan" remote="github" revision="lineage-15.1" />
-  <project name="Exynos5433/android_hardware_samsung_slsi-cm_exynos" path="hardware/samsung_slsi-cm/exynos" remote="github" revision="lineage-15.1" />
-  <project name="Exynos5433/android_hardware_samsung_slsi-cm_exynos5433" path="hardware/samsung_slsi-cm/exynos5433" remote="github" revision="lineage-15.1" />
-  <project name="Exynos5433/android_kernel_samsung_trelte" path="kernel/samsung/trelte" remote="github" revision="lineage-15.1" />
-  <project name="Exynos5433/android_system_core" path="system/core" remote="github" revision="lineage-15.1" />
-  <project name="Exynos5433/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="lineage-15.1" />
-  <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-15.1" />
-  <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos5" path="hardware/samsung_slsi-cm/exynos5" remote="github" revision="lineage-15.1" />
-  <project name="LineageOS/android_hardware_samsung_slsi-cm_openmax" path="hardware/samsung_slsi-cm/openmax" remote="github" revision="lineage-15.1" />
-  <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-15.1" />
+  <project name="Exynos5433/android_bionic" path="bionic" remote="github" revision="lineage-16.0" />
+  <project name="Exynos5433/android_device_samsung_trelte-common" path="device/samsung/trelte-common" remote="github" revision="lineage-16.0" />
+  <project name="Exynos5433/android_device_samsung_treltexx" path="device/samsung/treltexx" remote="github" revision="lineage-16.0" />
+  <project name="Exynos5433/android_frameworks_av" path="frameworks/av" remote="github" revision="lineage-16.0" />
+  <project name="Exynos5433/android_hardware_broadcom_wlan" path="hardware/broadcom/wlan" remote="github" revision="lineage-16.0" />
+  <project name="Exynos5433/android_hardware_samsung_slsi-cm_exynos" path="hardware/samsung_slsi-cm/exynos" remote="github" revision="lineage-16.0" />
+  <project name="Exynos5433/android_hardware_samsung_slsi-cm_exynos5433" path="hardware/samsung_slsi-cm/exynos5433" remote="github" revision="lineage-16.0" />
+  <project name="Exynos5433/android_kernel_samsung_trelte" path="kernel/samsung/trelte" remote="github" revision="lineage-16.0" />
+  <project name="Exynos5433/android_system_core" path="system/core" remote="github" revision="lineage-16.0" />
+  <project name="Exynos5433/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="lineage-16.0" />
+  <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-16.0" />
+  <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos5" path="hardware/samsung_slsi-cm/exynos5" remote="github" revision="lineage-16.0" />
+  <project name="LineageOS/android_hardware_samsung_slsi-cm_openmax" path="hardware/samsung_slsi-cm/openmax" remote="github" revision="lineage-16.0" />
+  <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-16.0" />
 </manifest>
