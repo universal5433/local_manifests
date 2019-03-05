@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  <project name="Exynos5433/android_device_samsung_tbelteskt" path="device/samsung/tbelteskt" remote="github" revision="lineage-16.0" />
   <project name="Exynos5433/android_device_samsung_trelte-common" path="device/samsung/trelte-common" remote="github" revision="lineage-16.0" />
-  <project name="Exynos5433/android_device_samsung_treltexx" path="device/samsung/treltexx" remote="github" revision="lineage-16.0" />
   <project name="Exynos5433/android_hardware_samsung_slsi-cm_exynos5433" path="hardware/samsung_slsi-cm/exynos5433" remote="github" revision="lineage-16.0" />
   <project name="Exynos5433/android_kernel_samsung_trelte" path="kernel/samsung/trelte" remote="github" revision="lineage-16.0" />
   <project name="Exynos5433/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="lineage-16.0" />
