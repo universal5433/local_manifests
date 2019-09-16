@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  <remove-project name="LineageOS/android_frameworks_av" />
   <remove-project name="LineageOS/android_hardware_broadcom_wlan" />
   <remove-project name="LineageOS/android_hardware_interfaces" />
-  <remove-project name="LineageOS/android_frameworks_av" />  
   <remove-project name="LineageOS/android_system_core" />  
   <project name="Exynos5433/android_device_samsung_gts2-common" path="device/samsung/gts2-common" remote="github" revision="lineage-16.0" />
   <project name="Exynos5433/android_device_samsung_gts28ltexx" path="device/samsung/gts28ltexx" remote="github" revision="lineage-16.0" />

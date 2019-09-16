@@ -6,7 +6,7 @@
   <remove-project name="LineageOS/android_system_core" />
   <!--Device-->
   <project name="Exynos5433/android_device_samsung_trelte-common" path="device/samsung/trelte-common" remote="github" revision="lineage-16.0" />
-  <project name="Exynos5433/android_device_samsung_treltexx" path="device/samsung/treltexx" remote="github" revision="lineage-16.0" />
+  <project name="Exynos5433/android_device_samsung_trphlte" path="device/samsung/trphlte" remote="github" revision="lineage-16.0" />
   <project name="Exynos5433/android_kernel_samsung_exynos5433" path="kernel/samsung/exynos5433" remote="github" revision="lineage-16.0" />
   <project name="Exynos5433/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="lineage-16.0" />
   <!--Hardware-->  
