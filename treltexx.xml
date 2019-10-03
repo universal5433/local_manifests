@@ -2,7 +2,6 @@
 <manifest>
   <remove-project name="LineageOS/android_frameworks_av" />
   <remove-project name="LineageOS/android_hardware_broadcom_wlan" />
-  <remove-project name="LineageOS/android_hardware_interfaces" />  
   <remove-project name="LineageOS/android_system_core" />
   <!--Device-->
   <project name="Exynos5433/android_device_samsung_trelte-common" path="device/samsung/trelte-common" remote="github" revision="lineage-16.0" />
@@ -22,7 +21,6 @@
   <!--Custom Forks--> 
   <project name="Exynos5433/android_frameworks_av" path="frameworks/av" remote="github" revision="lineage-16.0" />  
   <project name="Exynos5433/android_hardware_broadcom_wlan" path="hardware/broadcom/wlan" remote="github" revision="lineage-16.0" />
-  <project name="Exynos5433/android_hardware_interfaces" path="hardware/interfaces" remote="github" revision="lineage-16.0" />
   <project name="Exynos5433/android_system_core" path="system/core" remote="github" revision="lineage-16.0" />
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-16.0" />
 </manifest>
