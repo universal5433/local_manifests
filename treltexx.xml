@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remove-project name="LineageOS/android_frameworks_av" />
   <!--Device-->
   <project name="Exynos5433/android_device_samsung_trelte-common" path="device/samsung/trelte-common" remote="github" revision="lineage-16.0" />
   <project name="Exynos5433/android_device_samsung_treltexx" path="device/samsung/treltexx" remote="github" revision="lineage-16.0" />
@@ -17,6 +16,5 @@
   <project name="Exynos5433/android_hardware_samsung_slsi-cm_exynos5433" path="hardware/samsung_slsi-cm/exynos5433" remote="github" revision="lineage-16.0" />
   <project name="Exynos5433/android_hardware_samsung_slsi-cm_openmax" path="hardware/samsung_slsi-cm/openmax" remote="github" revision="lineage-16.0" />
   <!--Custom Forks-->
-  <project name="Exynos5433/android_frameworks_av" path="frameworks/av" remote="github" revision="lineage-16.0" />
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-16.0" />
 </manifest>
