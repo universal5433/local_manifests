@@ -5,6 +5,15 @@
 * Do the command . build/env*
 * Launch your build (brunch treltexx)
 
+## Repo picks
+* Required picks to compile and boot lineage-17.0
+
+* repopick 256150 -P bionic/ # Use legacy pthread_mutex_init() behavior on pre-P API levels
+* repopick 256151 # Actually restore pre-P mutex behavior
+* repopick 256219 # Handle empty thread names
+* repopick 256444 -P art/ # Don't fail dual map if memfd isn't supported
+* repopick 256960 # add TARGET_NEEDS_NETD_DIRECT_CONNECT_RULE
+
 ## Copyright
 
 * Copyright (C) 2019 ananjaser1211 (AnanJaser)
