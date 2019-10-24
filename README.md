@@ -1,4 +1,4 @@
-## Samsung Galaxy Note 4 and Tab S2 (Exynos) Lineage 16.0-Based ROMs
+## Samsung Galaxy Note 4 and Tab S2 (Exynos) Havoc-OS Pie-Based ROMs
 
 * Download supported sources (LineageOS, AOSCP, RR, etc...)
 * Once this is download, clone this repo to .repo/local_manifests then sync repositories again
