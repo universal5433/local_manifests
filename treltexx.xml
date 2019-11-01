@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <!--Device-->
-  <project name="Exynos5433/android_device_samsung_trelte-common" path="device/samsung/trelte-common" remote="github" revision="havoc-pie" />
-  <project name="Exynos5433/android_device_samsung_treltexx" path="device/samsung/treltexx" remote="github" revision="havoc-pie" />
-  <project name="Exynos5433/android_device_samsung_trelteskt" path="device/samsung/trelteskt" remote="github" revision="havoc-pie" />
+  <project name="Exynos5433/android_device_samsung_trelte-common" path="device/samsung/trelte-common" remote="github" revision="aosp-9" />
+  <project name="Exynos5433/android_device_samsung_treltexx" path="device/samsung/treltexx" remote="github" revision="aosp-9" />
+  <project name="Exynos5433/android_device_samsung_trelteskt" path="device/samsung/trelteskt" remote="github" revision="aosp-9" />
   <project name="Exynos5433/android_device_samsung_trhpltexx" path="device/samsung/trhpltexx" remote="github" revision="lineage-16.0" />
-  <project name="Exynos5433/android_device_samsung_tre3calteskt" path="device/samsung/tre3calteskt" remote="github" revision="havoc-pie" />
-  <project name="Exynos5433/android_device_samsung_tbelteskt" path="device/samsung/tbelteskt" remote="github" revision="havoc-pie" />
+  <project name="Exynos5433/android_device_samsung_tre3calteskt" path="device/samsung/tre3calteskt" remote="github" revision="aosp-9" />
+  <project name="Exynos5433/android_device_samsung_tbelteskt" path="device/samsung/tbelteskt" remote="github" revision="aosp-9" />
   <project name="Exynos5433/android_kernel_samsung_exynos5433" path="kernel/samsung/exynos5433" remote="github" revision="lineage-16.0" />
-  <project name="Exynos5433/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="lineage-16.0" />
+  <project name="Exynos5433/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="aosp-9" />
   <!--Hardware-->
-  <project name="Exynos5433/android_hardware_samsung" path="hardware/samsung" remote="github" revision="havoc-pie" />
+  <project name="Exynos5433/android_hardware_samsung" path="hardware/samsung" remote="github" revision="aosp-9" />
   <project name="Exynos5433/android_hardware_samsung_slsi-cm_exynos" path="hardware/samsung_slsi-cm/exynos" remote="github" revision="lineage-16.0" />
   <project name="Exynos5433/android_hardware_samsung_slsi-cm_exynos5" path="hardware/samsung_slsi-cm/exynos5" remote="github" revision="lineage-16.0" />
   <project name="Exynos5433/android_hardware_samsung_slsi-cm_exynos5433" path="hardware/samsung_slsi-cm/exynos5433" remote="github" revision="lineage-16.0" />
