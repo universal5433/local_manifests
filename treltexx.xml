@@ -4,7 +4,7 @@
   <project name="Exynos5433/android_device_samsung_trelte-common" path="device/samsung/trelte-common" remote="github" revision="aosp-9" />
   <project name="Exynos5433/android_device_samsung_treltexx" path="device/samsung/treltexx" remote="github" revision="aosp-9" />
   <project name="Exynos5433/android_device_samsung_trelteskt" path="device/samsung/trelteskt" remote="github" revision="aosp-9" />
-  <project name="Exynos5433/android_device_samsung_trhpltexx" path="device/samsung/trhpltexx" remote="github" revision="lineage-16.0" />
+  <!-- broken ril <project name="Exynos5433/android_device_samsung_trhpltexx" path="device/samsung/trhpltexx" remote="github" revision="lineage-16.0" /> -->
   <project name="Exynos5433/android_device_samsung_tre3calteskt" path="device/samsung/tre3calteskt" remote="github" revision="aosp-9" />
   <project name="Exynos5433/android_device_samsung_tbelteskt" path="device/samsung/tbelteskt" remote="github" revision="aosp-9" />
   <project name="Exynos5433/android_kernel_samsung_exynos5433" path="kernel/samsung/exynos5433" remote="github" revision="lineage-16.0" />
