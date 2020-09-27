@@ -3,17 +3,18 @@
   <!--Device Common-->
   <project name="universal5433/android_device_samsung_trelte-common" path="device/samsung/trelte-common" remote="github" revision="lineage-16.0" />
   <project name="universal5433/android_device_samsung_gts2-common" path="device/samsung/gts2-common" remote="github" revision="lineage-16.0" />
-  <!--Device-->
+  <!--Device Note 4 exynos-->
   <project name="universal5433/android_device_samsung_treltexx" path="device/samsung/treltexx" remote="github" revision="lineage-16.0" />
   <project name="universal5433/android_device_samsung_trelteskt" path="device/samsung/trelteskt" remote="github" revision="lineage-16.0" />
   <project name="universal5433/android_device_samsung_trhpltexx" path="device/samsung/trhpltexx" remote="github" revision="lineage-16.0" />
   <project name="universal5433/android_device_samsung_tre3calteskt" path="device/samsung/tre3calteskt" remote="github" revision="lineage-16.0" />
   <project name="universal5433/android_device_samsung_tbelteskt" path="device/samsung/tbelteskt" remote="github" revision="lineage-16.0" />
+  <!--Device Tabs2-->
   <project name="universal5433/android_device_samsung_gts210ltexx" path="device/samsung/gts210ltexx" remote="github" revision="lineage-16.0" />
   <project name="universal5433/android_device_samsung_gts210wifi" path="device/samsung/gts210wifi" remote="github" revision="lineage-16.0" />
   <project name="universal5433/android_device_samsung_gts28ltexx" path="device/samsung/gts28ltexx" remote="github" revision="lineage-16.0" />
   <project name="universal5433/android_device_samsung_gts28wifi" path="device/samsung/gts28wifi" remote="github" revision="lineage-16.0" />
-<!--Proprietary Vendor-->
+  <!--Proprietary Vendor-->
   <project name="universal5433/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="lineage-16.0" />
   <!--Hardware-->
   <project name="universal5433/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-16.0" />
