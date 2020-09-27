@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!--Device Common-->
+  <project name="universal5433/android_device_samsung_trelte-common" path="device/samsung/trelte-common" remote="github" revision="lineage-16.0" />
+  <project name="universal5433/android_device_samsung_gts2-common" path="device/samsung/gts2-common" remote="github" revision="lineage-16.0" />
+  <!--Device-->
+  <project name="universal5433/android_device_samsung_treltexx" path="device/samsung/treltexx" remote="github" revision="lineage-16.0" />
+  <project name="universal5433/android_device_samsung_trelteskt" path="device/samsung/trelteskt" remote="github" revision="lineage-16.0" />
+  <project name="universal5433/android_device_samsung_trhpltexx" path="device/samsung/trhpltexx" remote="github" revision="lineage-16.0" />
+  <project name="universal5433/android_device_samsung_tre3calteskt" path="device/samsung/tre3calteskt" remote="github" revision="lineage-16.0" />
+  <project name="universal5433/android_device_samsung_tbelteskt" path="device/samsung/tbelteskt" remote="github" revision="lineage-16.0" />
+  <project name="universal5433/android_device_samsung_gts210ltexx" path="device/samsung/gts210ltexx" remote="github" revision="lineage-16.0" />
+  <project name="universal5433/android_device_samsung_gts210wifi" path="device/samsung/gts210wifi" remote="github" revision="lineage-16.0" />
+  <project name="universal5433/android_device_samsung_gts28ltexx" path="device/samsung/gts28ltexx" remote="github" revision="lineage-16.0" />
+  <project name="universal5433/android_device_samsung_gts28wifi" path="device/samsung/gts28wifi" remote="github" revision="lineage-16.0" />
+<!--Proprietary Vendor-->
+  <project name="universal5433/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="lineage-16.0" />
+  <!--Hardware-->
+  <project name="universal5433/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-16.0" />
+  <project name="universal5433/android_hardware_samsung_slsi-cm_exynos" path="hardware/samsung_slsi-cm/exynos" remote="github" revision="lineage-16.0" />
+  <project name="universal5433/android_hardware_samsung_slsi-cm_exynos5" path="hardware/samsung_slsi-cm/exynos5" remote="github" revision="lineage-16.0" />
+  <project name="universal5433/android_hardware_samsung_slsi-cm_exynos5433" path="hardware/samsung_slsi-cm/exynos5433" remote="github" revision="lineage-16.0" />
+  <project name="universal5433/android_hardware_samsung_slsi-cm_openmax" path="hardware/samsung_slsi-cm/openmax" remote="github" revision="lineage-16.0" />
+  <!--Custom Forks-->
+  <!-- project name="LineageOS/android_packages_apps_FlipFlap" path="packages/apps/FlipFlap" remote="github" revision="lineage-16.0" /> -->
+  <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-16.0" /> 
+  <!--Kernel-->
+  <project name="universal5433/android_kernel_samsung_universal5433" path="kernel/samsung/universal5433" remote="github" revision="lineage-16.0" />
+</manifest>
+
