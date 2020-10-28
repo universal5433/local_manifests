@@ -8,10 +8,12 @@
 ## Copyright
 
 * Copyright (C) 2019 ananjaser1211 (AnanJaser)
-* Copyright (C) 2019 bonuzzz	
+* Copyright (C) 2019 bonuzzz (Oleg)
 * Copyright (C) 2019 McFy49 (Matt Grf)
 * Copyright (C) 2019 ripee
 * Copyright (C) 2019 sayedather (Ather Akber)
+* Copyright (C) 2020 Lunarixus (Nathan Brooke)
+* Copyright (C) 2020 Stricted (Jan Altensen)
 
 ## License
 Apache License 2.0 (Apache-2.0) (Located at LICENSE, read more at [tldrlegal.com/license/apache-license-2.0](https://tldrlegal.com/license/apache-license-2.0-%28apache-2.0%29))
