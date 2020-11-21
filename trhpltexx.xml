@@ -2,7 +2,7 @@
 <manifest>
   <!--Device-->
   <project name="universal5433/android_device_samsung_trelte-common" path="device/samsung/trelte-common" remote="github" revision="lineage-17.1" />
-  <project name="universal5433/android_device_samsung_treltexx" path="device/samsung/treltexx" remote="github" revision="lineage-17.1" />
+  <project name="universal5433/android_device_samsung_trhpltexx" path="device/samsung/trhpltexx" remote="github" revision="lineage-17.1" />
   <project name="universal5433/android_kernel_samsung_universal5433" path="kernel/samsung/universal5433" remote="github" revision="lineage-17.1" />
   <project name="universal5433/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="lineage-17.1" />
   <!--Hardware-->
