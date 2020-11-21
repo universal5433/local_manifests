@@ -13,6 +13,7 @@
 * Copyright (C) 2020 McFy49 (Matt Grf)
 * Copyright (C) 2020 ripee
 * Copyright (C) 2020 sayedather (Ather Akber)
+* Copyright (C) 2020 stricted (Jan Altensen)
 
 ## License
 Apache License 2.0 (Apache-2.0) (Located at LICENSE, read more at [tldrlegal.com/license/apache-license-2.0](https://tldrlegal.com/license/apache-license-2.0-%28apache-2.0%29))
