@@ -1,10 +1,5 @@
 ## Samsung Galaxy Note 4 and Tab S2 (Exynos) Lineage 18.1-Based ROMs
 
-* Download supported sources (LineageOS, RR, etc)
-* Once this is download, clone this repo to .repo/local_manifests then sync repositories again
-* Do the command . build/env*
-* Launch your build (brunch treltexx)
-
 # Build guide
 **1) Sync Source (LineageOS / RR OS Etc) as follows**
 
@@ -19,11 +14,18 @@
 **3) ReSync Source with new manifest**
 - `repo sync --force-sync --no-clone-bundle --current-branch --no-tags -j128`
 
-**4) Setup Build enviroment and Build**
+**4) Setup Build enviroment**
 - `. build/env*`
+
+**5) Additionally apply patches**
+- Head over to [Universal5433_Patches](https://github.com/universal5433/universal5433_patches)
+- Clone into root directory of your ROM
+- Apply via `git am /path/to/patch/*.patch` or use `repopick` if aplicable
+
+**6) Start Compiling**
 - `lunch lineage_treltexx-userdebug`
 - `mka bacon`
-- Alternativly, `. build/envsetup.sh && brunch treltexx`
+- Alternativly, `brunch treltexx`
 
 # Exta Misc Commands
 * Enable CCACHE (Faster reoccuring compiles)
