@@ -18,9 +18,18 @@
 - `. build/env*`
 
 **5) Additionally apply patches**
-- Head over to [Universal5433_Patches](https://github.com/universal5433/universal5433_patches)
-- Clone into root directory of your ROM
-- Apply via `git am /path/to/patch/*.patch` or use `repopick` if aplicable
+
+~- Head over to [Universal5433_Patches](https://github.com/universal5433/universal5433_patches)~
+
+~- Clone into root directory of your ROM~
+
+~- Apply via `git am /path/to/patch/*.patch` or use `repopick` if aplicable~
+
+- Patches Will be applied Automatically once you trigger `. build/envsetup.sh`
+- There are certain special patches which need to be enabled manually using exports
+- The build system will let you know how to enable them if they are disabled
+- To enable signature Spoofing type `export BUILD_SPOOFING=1`
+- To enable Attestation / CTS Fixes type `export BUILD_ATTESTATION=1`
 
 **6) Start Compiling**
 - `lunch lineage_treltexx-userdebug`
